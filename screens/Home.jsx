@@ -144,7 +144,7 @@ export default function Home ({navigation,route})
         <MapViewDirections
             origin={origin}
             destination={destination}
-            apikey= 'AIzaSyAw0KfQtuY2FnsKGABNSfWTlL9QsTOnnMw'
+            apikey= '###################################################'
             strokeWidth={3}            
             strokeColor="#07CD52"
             onReady={result=>{
