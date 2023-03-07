@@ -177,7 +177,7 @@ export default function Home ({navigation,route})
               <GooglePlacesAutocomplete
                 placeholder={'Aonde vamos '+name.split(' ')[0]+ ' 😁'}
                 query={{
-                  key: 'AIzaSyAw0KfQtuY2FnsKGABNSfWTlL9QsTOnnMw',
+                  key: '#######################################################################',
                   language: 'pt-br',
                   components:'country:ao'  ,       
                 }}
